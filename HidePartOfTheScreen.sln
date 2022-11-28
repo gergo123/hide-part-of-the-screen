@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App", "HidePartOfTheScreen\App.csproj", "{C51D315D-C27C-4341-90F5-8CC88D17BCDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C51D315D-C27C-4341-90F5-8CC88D17BCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51D315D-C27C-4341-90F5-8CC88D17BCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51D315D-C27C-4341-90F5-8CC88D17BCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51D315D-C27C-4341-90F5-8CC88D17BCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A13EE537-C82A-4956-9710-B81BDD5561C2}
+	EndGlobalSection
+EndGlobal
